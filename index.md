@@ -10,6 +10,8 @@
 
 ### Papers
 
+- [Dijkstra's Crisis](http://tomandmaria.com/Tom/Writing/DijkstrasCrisis_LeidenDRAFT.pdf)
+
 ### Other
 
 ## Primary (and worth reading for its own sake)
