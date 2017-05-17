@@ -20,4 +20,7 @@
 
 ### Papers
 
+- [NATO 68 & 69 Software Engineering Conference Proceedings](homepages.cs.ncl.ac.uk/brian.randell/NATO/)
+- [Managing the Development of Large Software Systems](http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)
+
 ### Other
