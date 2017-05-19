@@ -18,6 +18,8 @@
 
 ### Books
 
+- [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+
 ### Papers
 
 - [NATO 68 & 69 Software Engineering Conference Proceedings](homepages.cs.ncl.ac.uk/brian.randell/NATO/)
