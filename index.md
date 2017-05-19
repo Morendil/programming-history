@@ -24,3 +24,5 @@
 - [Managing the Development of Large Software Systems](http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)
 
 ### Other
+
+- [A Research Center for Augmenting Human Intellect](https://www.youtube.com/watch?v=yJDv-zdhzMY) (Engelbart's "Mother of All Demos", 1968)
