@@ -30,3 +30,9 @@
 ### Other
 
 - [A Research Center for Augmenting Human Intellect](https://www.youtube.com/watch?v=yJDv-zdhzMY) (Engelbart's "Mother of All Demos", 1968)
+
+## Meta (how to approach history)
+
+### Papers
+
+- [Papers we scrutinize](http://tomasp.net/blog/2017/papers-we-scrutinize/) by Tomas Petricek
