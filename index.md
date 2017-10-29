@@ -3,6 +3,7 @@
 ### Books
 
 - [The Computer Boys Take Over](https://www.amazon.com/exec/obidos/ASIN/0262050935)
+- [A Science of Operations](http://www.springer.com/us/book/9781848825543)
 - [Programmed Inequality](https://www.amazon.com/dp/0262035545/)
 - [Dealers of Lightning](https://www.amazon.com/exec/obidos/ASIN/0887309895)
 - [The Digital Hand](https://www.amazon.com/exec/obidos/ASIN/0195165888)
