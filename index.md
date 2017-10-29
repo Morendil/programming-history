@@ -3,6 +3,7 @@
 ### Books
 
 - [The Computer Boys Take Over](https://www.amazon.com/exec/obidos/ASIN/0262050935)
+- [Programmed Inequality](https://www.amazon.com/dp/0262035545/)
 - [Dealers of Lightning](https://www.amazon.com/exec/obidos/ASIN/0887309895)
 - [The Digital Hand](https://www.amazon.com/exec/obidos/ASIN/0195165888)
 - [Computer Systems Development](https://www.amazon.com/Computer-Systems-Development-Organization-Implementation/dp/0471923990)
