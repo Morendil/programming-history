@@ -29,6 +29,8 @@
 - [Managing the Development of Large Software Systems](http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)
 - [EWD Archives](http://www.cs.utexas.edu/~EWD/) (Dijkstra's blog, basically)
 - [Programmers Handbook for Manchester Electronic Computer Mark II](http://www.alanturing.net/turing_archive/archive/m/m01/M01-001.html) ([PDF transcription](http://curation.cs.manchester.ac.uk/computer50/www.computer50.org/kgill/mark1/RobertTau/turing.pdf))
+- [A theory of type polymorphism in programming](https://ac.els-cdn.com/0022000078900144/1-s2.0-0022000078900144-main.pdf?_tid=e4228544-0121-11e8-b6da-00000aab0f6b&acdnat=1516810751_8ba69062dc655a5464a3349ff21b9b03)
+- [Fundamental concepts in programming languages](https://www.itu.dk/courses/BPRD/E2009/fundamental-1967.pdf)
 
 ### Other
 
