@@ -16,6 +16,8 @@
 
 ### Other
 
+- [Why does "=" mean assignment?](https://www.hillelwayne.com/post/equals-as-assignment/) (light on references but an example of a *great* question)
+
 ## Primary (and worth reading for its own sake)
 
 ### Books
