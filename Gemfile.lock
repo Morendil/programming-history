@@ -27,8 +27,12 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-default-layout (0.1.4)
+      jekyll (~> 3.0)
     jekyll-optional-front-matter (0.3.0)
       jekyll (~> 3.0)
+    jekyll-relative-links (0.6.0)
+      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-theme-minimal (0.0.4)
@@ -62,7 +66,9 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.7.4)
+  jekyll-default-layout (~> 0.1.4)
   jekyll-optional-front-matter (~> 0.3.0)
+  jekyll-relative-links (~> 0.6.0)
   jekyll-theme-minimal (~> 0.0.1)
 
 BUNDLED WITH
