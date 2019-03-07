@@ -42,6 +42,10 @@
 
 ## Meta (how to approach history)
 
+### Worksheets
+
+- [A worksheet for reading Royce's "Managing the Development of Large Software Systems"](royce-worksheet.md)
+
 ### Papers
 
 - [Papers we scrutinize](http://tomasp.net/blog/2017/papers-we-scrutinize/) by Tomas Petricek
