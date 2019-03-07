@@ -1,3 +1,7 @@
+# Jekyll
+_site/
+.sass-cache/
+
 *.gem
 *.rbc
 /.config
