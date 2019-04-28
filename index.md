@@ -28,7 +28,7 @@
 ### Papers
 
 - [NATO 68 & 69 Software Engineering Conference Proceedings](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/)
-- [Managing the Development of Large Software Systems](http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)
+- [Managing the Development of Large Software Systems](http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf)
 - [EWD Archives](http://www.cs.utexas.edu/~EWD/) (Dijkstra's blog, basically)
 - [Programmers Handbook for Manchester Electronic Computer Mark II](http://www.alanturing.net/turing_archive/archive/m/m01/M01-001.html) ([PDF transcription](http://curation.cs.manchester.ac.uk/computer50/www.computer50.org/kgill/mark1/RobertTau/turing.pdf))
 - [A Plea for Lean Software - Nicklaus Wirth](https://cr.yp.to/bib/1995/wirth.pdf)
